@@ -26,6 +26,6 @@ Cython was used to help speed up some parts of the code(mainly computational) an
 
 This code does not use CUDA or any other parallel implementation, just CPU based implementation. The code is based on 2.4 section in 'Seminars.pdf'.
 
-No help will be provider with the inclusion of this code. None. You can use as you wish, but I will not help you add/change/fix anything. You are on your own.
+No help will be provided with the inclusion of this code. None. You can use as you wish, but I will not help you add/change/fix anything. You are on your own.
 
 That's it folks!
