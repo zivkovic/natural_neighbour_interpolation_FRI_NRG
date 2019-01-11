@@ -1,0 +1,17 @@
+\begin{thebibliography}{\uppercase{Tsi16}}
+
+\bibitem[cyt]{cython}
+Cython: C-extensions for python.
+\newblock URL: \url{https://cython.org/}.
+
+\bibitem[sou]{source_code}
+Github repository with source code.
+\newblock URL:
+  \url{https://github.com/zivkovic/natural_neighbour_interpolation_FRI_NRG}.
+
+\bibitem[Tsi16]{algorithm}
+\textsc{Tsidaev A.}:
+\newblock Parallel algorithm for natural neighbor interpolation.
+\newblock \emph{CEUR Workshop Proceedings 1729} (2016), 78--83.
+
+\end{thebibliography}
